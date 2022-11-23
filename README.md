@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manassav
 - 👀 I’m interested in developing web apps and blockchain development.
-- 🌱 I’m currently working in @Cognizant as Java FSE.
+- 🌱 I’m currently working in @Oracle as Java FSE.
 - 💞️ I’m looking to collaborate on blockchain as well as new aspects on Spring boot.
 - 📫 Mail me on manassav@gmail.com
 
